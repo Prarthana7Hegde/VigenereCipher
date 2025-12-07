@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vigenère Cipher</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h2>🔐 Vigenère Cipher Tool</h2>
+
+        <label>Enter Text</label>
+        <textarea id="inputText" placeholder="Enter your message here..."></textarea>
+
+        <label>Enter Key</label>
+        <input type="text" id="keyText" placeholder="Enter the key">
+
+        <div class="button-group">
+            <button onclick="encrypt()">Encrypt</button>
+            <button onclick="decrypt()">Decrypt</button>
+        </div>
+
+        <label>Output</label>
+        <textarea id="outputText" readonly placeholder="Result will appear here..."></textarea>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
