@@ -43,3 +43,13 @@ Each letter shift depends on the matching key letter.
 
 ## 📂 Project Structure
 
+├── index.html # UI layout
+├── style.css # Styling and responsiveness
+└── script.js # Encryption / Decryption logic
+
+## ▶️ How to Run
+
+1. Clone the repository:
+
+   git clone https://github.com/Prarthana7Hegde/VigenereCipher.git
+
