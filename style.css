@@ -12,7 +12,7 @@ body {
     height: 100vh;
 }
 
-.container {
+.container 
     width: 450px;
     background: #1f1f1f;
     padding: 25px;
