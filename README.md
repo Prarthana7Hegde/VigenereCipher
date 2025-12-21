@@ -49,9 +49,11 @@ Each letter shift depends on the matching key letter.
 
 ## Screenshots
 
-![Encryption](<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/409952f7-689d-4cb3-9b02-ad23184dafd1" />g)
+![Encryption]
+(<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/409952f7-689d-4cb3-9b02-ad23184dafd1" />g)
 
-![Decryption](<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a1cc8209-4718-40a4-974a-c0b0086de959" />g)
+![Decryption]
+(<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a1cc8209-4718-40a4-974a-c0b0086de959" />g)
 
 
 
