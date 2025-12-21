@@ -50,7 +50,7 @@ Each letter shift depends on the matching key letter.
 ## Screenshots
 
 Encryption : 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/409952f7-689d-4cb3-9b02-ad23184dafd1" />
+<img width="400" height="400" alt="Screenshot 2025-12-21 231542" src="https://github.com/user-attachments/assets/368ebc8f-e996-4bca-9c9d-a21633f4f600" />
 
 Decryption : 
 <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/a1cc8209-4718-40a4-974a-c0b0086de959" />
