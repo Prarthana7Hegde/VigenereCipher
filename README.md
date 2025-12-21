@@ -47,6 +47,15 @@ Each letter shift depends on the matching key letter.
 ├── style.css # Styling and responsiveness
 └── script.js # Encryption / Decryption logic
 
+## Screenshots
+
+![Encryption](<img width="847" height="951" alt="image" src="https://github.com/user-attachments/assets/409952f7-689d-4cb3-9b02-ad23184dafd1" />
+)
+![Decryption](<img width="847" height="951" alt="image" src="https://github.com/user-attachments/assets/a1cc8209-4718-40a4-974a-c0b0086de959" />
+g)
+
+
+
 ## ▶️ How to Run
 
 1. Clone the repository:
